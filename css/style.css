@@ -1,0 +1,15 @@
+/* Linking components sheets*/
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/cards.css");
+
+
+/* Fonts and Colors for Headings */
+h2 {
+	color: black;
+	font-family: sans-serif;
+  	font: 'lucida grande';
+	font-weight: bold;
+	font-size: 30px;
+	margin: 20 20 20 5;
+}

@@ -1,0 +1,21 @@
+.btn-gradient {
+  color: #345693;
+  padding: 8px 24px;
+  border-radius: 4px;
+  font-family: sans-serif;
+  font: 'lucida grande';
+  font-weight: bold;
+  background: #e7e8f1;
+  transition: background 0.3s ease;
+  border: 2px solid #bdc4da;
+  text-decoration: none
+
+}
+
+.btn-gradient:hover {
+  background: linear-gradient(#e7e8f1, white);
+}
+
+.btn-gradient img {
+	size: 10px
+}
